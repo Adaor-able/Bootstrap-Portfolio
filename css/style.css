@@ -1,1 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600&display=swap');
 
+
+element.style {
+}
+#home .cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.6rem;
+}
+html:not(.no-js) [data-aos^=fade][data-aos^=fade].aos-animate {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+}
+[data-aos][data-aos][data-aos-delay="200"].aos-animate, body[data-aos-delay="200"] [data-aos].aos-animate {
+    transition-delay: .2s;
+}
+html:not(.no-js) [data-aos^=fade][data-aos^=fade] {
+    opacity: 0;
+    transition-property: opacity,-webkit-transform;
+    transition-property: opacity,transform;
+    transition-property: opacity,transform,-webkit-transform;
+}
+[data-aos][data-aos][data-aos-delay="200"], body[data-aos-delay="200"] [data-aos] {
+    transition-delay: 0s;
+}
+html:not(.no-js) [data-aos=fade-up] {
+    -webkit-transform: translate3d(0,100px,0);
+    transform: translate3d(0,100px,0);
+}
+[data-aos][data-aos][data-aos-easing=ease], body[data-aos-easing=ease] [data-aos] {
+    transition-timing-function: ease;
+}
+[data-aos][data-aos][data-aos-duration="900"], body[data-aos-duration="900"] [data-aos] {
+    transition-duration: .9s;
+}
+[data-aos].aos-animate {
+    pointer-events: auto;
+}
+[data-aos] {
+    pointer-events: none;
+}
+*, *::after, *::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    font-size: 1.6rem;
+    background-color: var(--color-bg);
+    color: var(--color-body);
+    line-height: 1.5;
+    font-family: var(--font-base), sans-serif;
+}
+:root {
+    --font-base: "Bai Jamjuree";
+    --border-radius: 1.2rem;
+    --border-radius-lg: 2.4rem;
+    --color-brand: hsl(252, 78%, 72%);
+    --color-brand2: hsl(252, 78%, 62%);
+    --color-bg: hsl(247, 44%, 23%);
+    --color-bg2: hsl(247, 44%, 32%);
+    --sidebar-hsl: 247, 44%, 15%;
+    --color-body: hsl(252, 78%, 85%);
+    --color-heading: hsl(252, 78%, 95%);
+}
+
+
+body {
+    background-color: var(--color-base);
+    color: var(--color-body);
+    font-family: var(--font-base),sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: var(--color-heading);
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    color: var(--color-body);
+    transition: all 0.4s ease;
+}
+
+a:hover {
+    color: var(--color-brand);
+}
+
+img {
+    width: 100%;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: var(--color-base);
+}
+
+.navbar .nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--color-brand);
+    text-shadow: 0.5px 1px 0.2px rgb(38, 37, 37);
+}
+
+.navbar .nav-link:hover {
+    color: var(--color-brand2);
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        min-height: 100vh;
+        width: var(--sidbar-width);
+        background: linear-gradient(rgba(116, 195, 248, 0.127), rgba(0, 0, 0, 0.705)), url(../images/maximalfocus-VT4rx775FT4-unsplash.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+.navbar-brand img {
+    border: 8px solid var(--color-brand);
+}
+
+
+    /* CONTENT WRAPPER */
+
+    #content-wrapper {
+        padding-left: var(--sidbar-width);
+    }
+
+} 
+
+ 
