@@ -81,7 +81,10 @@ img {
     color: var(--color-bg);
 }
 
-/* NAVBAR */
+
+
+    /* NAVBAR */
+
 .navbar {
     background-color: var(--color-base);
 }
@@ -119,10 +122,11 @@ img {
     #content-wrapper {
         padding-left: var(--sidbar-width);
     }
-
 } 
 
- /* BUTTON*/
+
+
+    /* BUTTON*/
 
  .btn {
     padding: 12px 28px;
@@ -160,3 +164,18 @@ img {
  .link-custom:hover::after {
     width: 100%;
  }
+
+
+   /* CARD */
+
+.card-custom .card-custom-image {
+    overflow: hidden;
+}
+
+.card-custom .card-custom-image img {
+    transition: all 0.4s ease;
+}
+
+.card-custom:hover .card-custom-image img {
+    transform: scale(1.1);
+}
