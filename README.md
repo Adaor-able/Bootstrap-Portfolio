@@ -37,4 +37,5 @@ To contact me, simply click 'Contact' in the sidebar, and the browser will navig
 - https://line-awesome.com/
 - https://unsplash.com/
 - https://michalsnik.github.io/aos/
+- SA7MAN (https://www.youtube.com/c/SA7MAN)
 
