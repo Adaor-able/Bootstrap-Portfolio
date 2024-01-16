@@ -8,6 +8,9 @@ Mobile Navigation
 Animated elements on scroll
 Smooth scrolling in each section
 
+#Usage
+
+To 
 
 #Credit and Acknowledgments
 
