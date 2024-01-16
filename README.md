@@ -1,18 +1,18 @@
-#Portfolio/Resume Webpage
-
+# Portfolio/Resume Webpage
+ 
 This professional Portfolio webpage was created using HTML, CSS and Bootstrap, for the purpose of showcasing my web design and technical skills to prospective clients.
 
-#Features
+# Features
 Fully Responsive
 Mobile Navigation
 Animated elements on scroll
 Smooth scrolling in each section
 
-#Usage
+# Usage
 
 To 
 
-#Credit and Acknowledgments
+# Credit and Acknowledgments
 
 https://github.com/SA7MAN/
 https://fonts.google.com/
