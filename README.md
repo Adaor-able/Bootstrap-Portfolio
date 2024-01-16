@@ -14,15 +14,19 @@ To view the portfolio webpage, simply open the page in any browser via this link
 
 The portfolio webpage features a sidebar for navigation purposes, where you can view the content of each section. 
 
-
+![Image screenshot of sidebar in portfolio webpage](./images/Screenshot%202024-01-16%20at%2017.10.38.png "Sidebar navigation")
 
 The projects contained within the 'Work' section can be opened when 'Explore' is clicked; the project will then be deployed in the web browser. Simply navigate 'back" in your browser to return to the portfolio webpage.
 
+![Image screenshot of work section in portfolio webpage](./images/Screenshot%202024-01-16%20at%2017.12.01.png "Explore projects in portfolio webpage")
 
 To access my Resume, simply click 'About' in the sidebar, and the browser will navigate to a section where you can click the 'Explore my experience' button to open my Resume in the same broswer page. Simply navigate 'back" in your browser to return to the portfolio webpage.
 
+![Image screenshot of resume section in portfolio webpage](./images/Screenshot%202024-01-16%20at%2017.12.57.png "Resume navigation")
 
 To contact me, simply click 'Contact' in the sidebar, and the browser will navigate to a section where you can click any of the icons to be taken to a platform where you can connect with me directly.
+
+![Image screenshot of contact section in portfolio webpage](./images/Screenshot%202024-01-16%20at%2017.10.38.png "Contact navigation")
 
 
 
