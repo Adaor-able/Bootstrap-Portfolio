@@ -10,7 +10,7 @@ Smooth scrolling in each section
 
 # Usage
 
-To view the portfolio webpage, simply open the page in any browser via this link:
+To view the portfolio webpage, simply open the page in any browser via this link: https://adaor-able.github.io/Bootstrap-Portfolio/ 
 
 The portfolio webpage features a sidebar for navigation purposes, where you can view the content of each section. 
 
